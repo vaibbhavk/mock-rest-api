@@ -1,0 +1,22 @@
+{
+  "basket": [
+    {
+      "item": "White T-shirt",
+      "sub_code": "user_12345",
+      "price": 19.99,
+      "quantity": 2,
+      "size": "M",
+      "product_id": "tshirt_white_m",
+      "image_url": "https://s3.amazonaws.com/yourbucket/tshirt_white_m.jpg"
+    },
+    {
+      "item": "Poster",
+      "sub_code": "user_12345",
+      "price": 29.99,
+      "quantity": 1,
+      "size": "A2",
+      "product_id": "poster_a2",
+      "image_url": "https://s3.amazonaws.com/yourbucket/poster_a2.jpg"
+    }
+  ]
+}
